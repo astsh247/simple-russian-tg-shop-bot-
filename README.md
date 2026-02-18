@@ -170,3 +170,6 @@ MIT
 ---
 
 🔗 GitHub: https://github.com/astsh247/simple-russian-tg-shop-bot
+
+
+строго не судите, мне 14 ;D | don't judge me too harshly, I'm 14 ;D
